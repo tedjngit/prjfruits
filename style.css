@@ -1,0 +1,54 @@
+tbody {
+    background-color: greenyellow;
+    color: indigo;
+}
+
+table {
+    text-align: center;
+    margin: 22px auto;
+    font-size: 1.5em;
+    font-family: monospace;
+}
+
+thead {
+    background-color: rgb(186, 195, 136);
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+tfoot {
+    background-color: aquamarine;
+    font-size: 17px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+th {
+    border: 2px solid #8c6b48;
+}
+
+td {
+    border: 2px solid #8c6b48;
+    width: 150px;
+    font-size: 9px;
+}
+
+.imagco {
+    height: 24px;
+    width: 30px;
+}
+
+#coadr {
+    height: 350px;
+    width: 100%;
+    font-family: monospace;
+    font-size: 15px;
+    background-image: url("fruits1.jpg");
+}
+
+#titr {
+    font-family: cursive;
+    color: teal;
+    text-align: center;
+    font-size: 3em;
+}
